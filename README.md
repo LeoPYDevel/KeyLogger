@@ -13,3 +13,6 @@ or you can use:
 ```
 python3 -m pip install pynput
 ```
+
+Ignore:
+#github #git #python3 #python #py #py3 #LeoPyDevel #KeyLogger #Key #Logger #LoggerKey #LogKeys #KeyLoggerPython3 #KeyLogPython #LogKeysPython
