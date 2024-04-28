@@ -6,10 +6,10 @@ A super good key logger, you can customize IT, a keylogger for LOG all keyboard 
 2: Pynput
 
 Install it with:
-bash ```
+```
 pip install pynput
 ```
-or
+or you can use:
 ```
 python3 -m pip install pynput
 ```
